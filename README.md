@@ -8,6 +8,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)](https://laravel.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)](https://react.dev/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)](https://www.docker.com/)
@@ -20,13 +21,13 @@
 
 Software engineer focused on **web applications, backend systems, automation and developer tooling**.
 
-I enjoy building things, exploring how they work under the hood, and turning experiments into useful software.
+Currently pursuing a degree in **Analysis and Systems Development (ADS) at UNILAVRAS**.
 
-Currently exploring **AI-powered development, automation and modern software architecture**.
+Most of my practical experience has been built through **internship work, mentorship and hands-on projects**, alongside independent study.
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Core Stack
 
 **Languages**
 
@@ -34,6 +35,8 @@ Currently exploring **AI-powered development, automation and modern software arc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -50,6 +53,20 @@ Currently exploring **AI-powered development, automation and modern software arc
 
 ---
 
+### 🎓 Learning Path
+
+| Technology                  | How it became part of my toolkit                                                                           |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **PHP / Laravel**           | Professional experience and mentorship during my internship                                                |
+| **Python**                  | From basic to advanced studies with [Luiz Otávio Miranda](https://www.udemy.com/user/luiz-otavio-miranda/) |
+| **JavaScript / TypeScript** | Independent study, experimentation and YouTube resources                                                   |
+| **C / C++**                 | HarvardX coursework and independent study                                                                  |
+| **Everything else**         | Mostly developed through internship experience, projects and continuous self-study                         |
+
+> My internship has been one of the biggest parts of my practical development as a developer.
+
+---
+
 ### 🚀 Selected Projects
 
 | Project                                                                 | Description                                                                 |
@@ -62,20 +79,20 @@ Currently exploring **AI-powered development, automation and modern software arc
 
 ---
 
-### 📊 GitHub
+### 🔭 Currently Exploring
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=K-Borges&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Borges&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
+`AI` · `Developer Tools` · `Automation` · `MCP` · `Cloud` · `Software Architecture`
 
 ---
 
 <div align="center">
 
-**Building software. Breaking assumptions. Learning by shipping.**
+### `build → experiment → learn → ship`
+
+<br/>
+
+<a href="https://github.com/K-Borges">
+<img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
