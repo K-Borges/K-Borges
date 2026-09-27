@@ -1,327 +1,81 @@
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║                    KEVIN BORGES                          ║
-  ║              GitHub Profile README                       ║
-  ╚══════════════════════════════════════════════════════════╝
-
-  Profile: https://github.com/K-Borges
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=KEVIN%20BORGES&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn&fontSize=42" width="100%"/>
+# Kevin Borges
 
-<br/>
+### Software Engineer · Full Stack Developer
 
-<a href="https://github.com/K-Borges">
-  <img src="https://img.shields.io/badge/GitHub-K--Borges-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=rocket" />
-</a>
-
-<br/><br/>
-
-### `building software, exploring systems, automating the boring parts.`
+[![GitHub](https://img.shields.io/badge/GitHub-K--Borges-181717?style=flat-square\&logo=github)](https://github.com/K-Borges)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)](https://laravel.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)](https://react.dev/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)](https://www.docker.com/)
 
 </div>
 
 ---
 
-## `> whoami`
+### 👨‍💻 About
 
-I'm a software engineer focused on building **web applications, developer tools and software experiments**.
+Software engineer focused on **web applications, backend systems, automation and developer tooling**.
 
-I enjoy moving between the layers of a system, from interfaces and APIs to databases, infrastructure and automation.
+I enjoy building things, exploring how they work under the hood, and turning experiments into useful software.
 
-Currently exploring the intersection between:
-
-```text
-Software Engineering
-        +
-Developer Experience
-        +
-Automation
-        +
-Artificial Intelligence
-```
-
-I prefer projects that are more than a collection of features.
-
-**Architecture, trade-offs and how things work underneath matter too.**
+Currently exploring **AI-powered development, automation and modern software architecture**.
 
 ---
 
-## `> current_focus`
+### 🛠️ Stack
 
-<table>
-<tr>
-<td width="50%">
+**Languages**
 
-### ⚙️ Building
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
-```text
-Web Applications
-Developer Tools
-APIs
-Automation
-Software Experiments
-```
+**Frameworks & Tools**
 
-</td>
-<td width="50%">
-
-### 🧪 Exploring
-
-```text
-AI-powered tooling
-Agents
-MCP
-Distributed systems
-Cloud & DevOps
-```
-
-</td>
-</tr>
-</table>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
 ---
 
-# `> selected_work`
+### 🚀 Selected Projects
+
+| Project                                                                 | Description                                                                 |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **[Filament](https://github.com/K-Borges/filament)**                    | Laravel application with Filament, Livewire, dashboards and relational data |
+| **[Base Converter](https://github.com/K-Borges/base-converter-python)** | Python CLI for numerical base conversion and computational experiments      |
+| **[Agenda Django](https://github.com/K-Borges/agenda_django)**          | Full-stack experiment with Django REST Framework and React                  |
+
+> More projects are coming.
+
+---
+
+### 📊 GitHub
 
 <div align="center">
 
-<table>
-<tr>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=K-Borges&show_icons=true&hide_border=true&theme=transparent" />
 
-<td width="50%" valign="top">
-
-### 🧩 Laravel / Filament
-
-A full-stack Laravel application exploring administration interfaces, relational data, dashboards and modern Laravel tooling.
-
-**Stack**
-
-`PHP` `Laravel` `Filament` `Livewire` `Tailwind`
-
-<br/>
-
-<a href="https://github.com/K-Borges/filament">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐍 Numeric Lab
-
-An evolving Python project focused on numerical representations, conversions and low-level computational concepts.
-
-**Stack**
-
-`Python` `CLI` `Algorithms`
-
-<br/>
-
-<a href="https://github.com/K-Borges/base-converter-python">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚛️ Django + React
-
-A full-stack experiment combining a Python backend with a modern JavaScript frontend.
-
-**Stack**
-
-`Python` `Django` `DRF` `React`
-
-<br/>
-
-<a href="https://github.com/K-Borges/agenda_django">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 More experiments
-
-New projects are being built.
-
-Some of them will eventually make their way here.
-
-```text
-████████████████░░░░  80%
-```
-
-</td>
-
-</tr>
-</table>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Borges&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-# `> technology_universe`
-
 <div align="center">
 
-### Core
-
-<img src="https://skillicons.dev/icons?i=php,python,js,ts,laravel,django,react,nextjs,docker,linux,git,github" />
-
-<br/><br/>
-
-### Working with
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,redis,postgres,mysql,sqlite,azure,nginx" />
-
-</div>
-
----
-
-## `> engineering`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   APPLICATIONS                                             │
-│        │                                                    │
-│        ├──── APIs                                           │
-│        ├──── Interfaces                                     │
-│        ├──── Authentication                                 │
-│        └──── Business Logic                                 │
-│                                                             │
-│   DATA                                                      │
-│        │                                                    │
-│        ├──── Relational Databases                            │
-│        ├──── Caching                                        │
-│        └──── Persistence                                    │
-│                                                             │
-│   INFRASTRUCTURE                                            │
-│        │                                                    │
-│        ├──── Containers                                      │
-│        ├──── Linux                                           │
-│        ├──── Cloud                                           │
-│        └──── Deployment                                      │
-│                                                             │
-│   AUTOMATION                                                │
-│        │                                                    │
-│        ├──── Developer Tools                                 │
-│        ├──── AI                                              │
-│        └──── Experiments                                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `> github_activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=K-Borges&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Borges&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=K-Borges&theme=transparent&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# `> contribution_map`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Borges&bg_color=00000000&color=888888&line=666666&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `> experiments`
-
-I like building things simply because **I want to know how they work**.
-
-Some projects start as experiments.
-
-Some become tools.
-
-Some become production software.
-
-And some exist purely because there was an interesting rabbit hole to explore.
-
-```text
-                 ┌───────────────────┐
-                 │       IDEA        │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │     EXPERIMENT    │
-                 └─────────┬─────────┘
-                           │
-                    ┌──────┴──────┐
-                    │             │
-                    ▼             ▼
-                 KEEP          DISCARD
-                    │
-                    ▼
-                 ITERATE
-                    │
-                    ▼
-                 PROJECT
-```
-
----
-
-# `> currently_building`
-
-<div align="center">
-
-```text
-AI tooling          ████████████████░░░░
-Developer tools     ██████████████░░░░░░
-Cloud / DevOps      ████████████░░░░░░░░
-Open Source         ██████████░░░░░░░░░░
-```
-
-</div>
-
-> This section will evolve as new projects are published.
-
----
-
-# `> connect`
-
-<div align="center">
-
-<a href="https://github.com/K-Borges">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### `Thanks for stopping by.`
-
-<sub>More experiments are coming.</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn" width="100%"/>
+**Building software. Breaking assumptions. Learning by shipping.**
 
 </div>
