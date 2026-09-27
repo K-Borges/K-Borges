@@ -21,7 +21,7 @@
 
 Software engineer focused on **web applications, backend systems, automation and developer tooling**.
 
-Currently pursuing a degree in **Analysis and Systems Development (ADS) at UNILAVRAS**.
+Currently pursuing a degree in **Analysis and Systems Development**.
 
 Most of my practical experience has been built through **internship work, mentorship and hands-on projects**, alongside independent study.
 
